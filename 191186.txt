@@ -1,1 +1,15 @@
-fghdj
+бр.4 λ mkdir SI_2023_lab1_191186 
+     λ cd SI_2023_lab1_191186
+     λ git init
+бр.5 λ git remote add origin https://github.com/Simonajordanova/SI_2023_lab1_191186.git
+бр.6 λ git add README.md
+     λ git commit -m "Inital commit"
+бр7. λ git add  SILab1.java
+     λ git commit -m "Add java class"
+бр8. λ git push -u origin master
+бр27. λ git add logs.txt
+      λ git add 191186.txt
+      λ git commit -m "Final commit"
+бр28. λ git push origin master
+
+     
